@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shreyash Uparkar 👋</h1>
-<h3 align="center">Cybersecurity Engineer · Founder of BinCrypt Securities · SOC & VAPT</h3>
+<h3 align="center">Cybersecurity Engineer · SOC & VAPT</h3>
 
 <p align="center">
   <a href="mailto:shuparkar@gmail.com"><img src="https://img.shields.io/badge/Email-shuparkar%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
@@ -12,7 +12,6 @@
 ### 🛡️ About me
 
 - 🎓 Final-year **B.Tech CSIT (Cybersecurity)** student at Symbiosis Skills and Professional University, Pune (2027)
-- 🏢 Founder of **BinCrypt Securities**, a registered MSME cybersecurity firm doing VAPT engagements, intern training, and security SaaS
 - 🔍 Hands-on across **SOC operations, web application pentesting, and DPDPA (India's data protection law) compliance**
 - 🐛 Bug bounty hunter on **HackerOne** and **Bugcrowd**; regular on **HackTheBox** and CTFs
 - 👨‍🏫 Run structured cybersecurity training programs for junior students
