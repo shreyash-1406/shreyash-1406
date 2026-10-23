@@ -3,6 +3,7 @@
 
 <p align="center">
   <a href="mailto:shuparkar@gmail.com"><img src="https://img.shields.io/badge/Email-shuparkar%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://shreyash-1406.github.io"><img src="https://img.shields.io/badge/Portfolio-shreyash--1406.github.io-37E2A0?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <img src="https://img.shields.io/badge/Location-Pune%2C%20India-0A66C2?style=flat&logo=googlemaps&logoColor=white" alt="Pune, India">
   <img src="https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=flat&logo=hackthebox&logoColor=black" alt="HackTheBox">
 </p>
@@ -32,19 +33,19 @@
 
 ### 🚀 Projects
 
-> 🚧 Repositories are being published one by one. Links go live as each project is pushed.
-
 | Project | What it does | Status |
 |---|---|---|
+| **[AI Secure Code Review Platform](https://github.com/shreyash-1406/ai-secure-code-review)** | Static rules + local LLM: verifies findings, explains risk, suggests fixed code | ✅ Live |
+| **[Bash Recon Pipeline](https://github.com/shreyash-1406/bash-recon-pipeline)** | Chains recon tools for subdomain, port, and endpoint discovery | ✅ Live |
+| **[Code Security Quality Testing Tool](https://github.com/shreyash-1406/code-security-scanner)** | 27 CWE-mapped rules, quality checks, HTML/JSON reports, CI gate | ✅ Live |
 | **AI-Powered DPDPA Compliance Platform** | Organisations declare their tech stack and get AI-generated gap maps and compliance roadmaps under India's DPDP Act | 🛠️ In progress |
 | **AI-Powered Unified SOC Dashboard** | Single pane for alerts from multiple security tools, with AI-assisted triage | 🛠️ In progress |
-| **AI Secure Code Review Platform** | Flags insecure code patterns and explains fixes using an LLM | 🛠️ In progress |
 | **AI Bug Bounty Automation Tool** | Recon and triage helper powered by a local LLM | 🛠️ In progress |
 | **Enterprise Home SOC Lab** | SIEM, endpoint agents, and attack simulation in a home lab | 🛠️ In progress |
-| **Bash Recon Pipeline** | Chains recon tools for subdomain, port, and endpoint discovery | 🛠️ In progress |
-| **Code Security Quality Testing Tool** | Static checks for security and code quality issues | 🛠️ In progress |
 
-📄 **Research:** Co-author of a paper on a DPDPA-based privacy and security gap assessment platform (SSPU, 2026)
+📄 **Research (co-author, SSPU 2026):**
+- DPDPA-Based Privacy and Security Gap Assessment Platform
+- GNN-IDS: Continual-Learning Graph Neural Network Intrusion Detection
 
 ---
 
