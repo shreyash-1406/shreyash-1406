@@ -35,10 +35,10 @@
 
 | Project | What it does | Status |
 |---|---|---|
+| **[AI-Powered DPDPA Compliance Platform](https://github.com/shreyash-1406/dpdpa-compliance-platform)** | Asset-first DPDP Act 2023 / Rules 2025 gap assessment with risk-based roadmap and report | ✅ Live |
 | **[AI Secure Code Review Platform](https://github.com/shreyash-1406/ai-secure-code-review)** | Static rules + local LLM: verifies findings, explains risk, suggests fixed code | ✅ Live |
 | **[Bash Recon Pipeline](https://github.com/shreyash-1406/bash-recon-pipeline)** | Chains recon tools for subdomain, port, and endpoint discovery | ✅ Live |
 | **[Code Security Quality Testing Tool](https://github.com/shreyash-1406/code-security-scanner)** | 27 CWE-mapped rules, quality checks, HTML/JSON reports, CI gate | ✅ Live |
-| **AI-Powered DPDPA Compliance Platform** | Organisations declare their tech stack and get AI-generated gap maps and compliance roadmaps under India's DPDP Act | 🛠️ In progress |
 | **AI-Powered Unified SOC Dashboard** | Single pane for alerts from multiple security tools, with AI-assisted triage | 🛠️ In progress |
 | **AI Bug Bounty Automation Tool** | Recon and triage helper powered by a local LLM | 🛠️ In progress |
 | **Enterprise Home SOC Lab** | SIEM, endpoint agents, and attack simulation in a home lab | 🛠️ In progress |
