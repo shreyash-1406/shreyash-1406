@@ -41,7 +41,7 @@
 | **[Bash Recon Pipeline](https://github.com/shreyash-1406/bash-recon-pipeline)** | Chains recon tools for subdomain, port, and endpoint discovery | ✅ Live |
 | **[Code Security Quality Testing Tool](https://github.com/shreyash-1406/code-security-scanner)** | 27 CWE-mapped rules, quality checks, HTML/JSON reports, CI gate | ✅ Live |
 | **AI Bug Bounty Automation Tool** | Recon and triage helper powered by a local LLM | 🛠️ In progress |
-| **Enterprise Home SOC Lab** | SIEM, endpoint agents, and attack simulation in a home lab | 🛠️ In progress |
+| **[Enterprise Home SOC Lab](https://github.com/shreyash-1406/home-soc-lab)** | Wazuh SIEM, Suricata IDS, Linux/Windows endpoints, custom ATT&CK-mapped rules, IR playbooks | 📘 Blueprint, building |
 
 📄 **Research (co-author, SSPU 2026):**
 - DPDPA-Based Privacy and Security Gap Assessment Platform
